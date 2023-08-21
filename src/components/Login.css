@@ -1,0 +1,24 @@
+.center{
+ margin:31px 100px;
+ 
+}
+
+.lock_center{
+    margin:31px 18px;
+   
+}
+.form{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.btn{
+    margin: 27px 76px;
+    background-color:rgb(3, 3, 70);
+}
+h3{
+    color:#06074f ;
+}
+.forgot{
+    cursor: pointer;
+    text-decoration: underline #059e9b !important;
+}

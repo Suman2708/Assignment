@@ -1,0 +1,56 @@
+*{
+    text-align: center;
+    
+}
+body{
+    background-color: aliceblue;
+}
+.container{
+    margin-top: 100px;
+}
+.input_space{
+    margin-bottom: 10px;
+}
+input{
+    height: 40px;
+    width: 20%;
+    font-size: 25px;
+}
+button{
+    height: 30px;
+    width: 15%;
+    background-color:rgb(199, 145, 145);
+    border: none;
+    cursor: pointer;
+}
+.logout{
+    margin-right: 5px;
+    color: rgb(241, 239, 239);
+    font-weight: 400;
+    background-color: rgb(186, 14, 14);
+    cursor: pointer;
+}
+.delete{
+    margin-right: 5px;
+    color: white;
+    background-color: rgb(3, 12, 70);
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.divider{
+    margin-top: 20px;
+border: 2px solid grey;
+   background-color:#010116 ;
+  justify-content: center;
+  border-radius: 50px;
+  cursor: pointer;
+
+}
+.divider h4{
+    color: white;
+}
+.form label{
+   font-weight: 300;
+   font-size: large;
+}

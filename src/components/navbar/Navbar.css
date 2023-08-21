@@ -1,0 +1,40 @@
+.new_nav {
+    display: flex;
+    justify-content:flex-start;
+    padding: 1rem;
+    background-color: #03072e;
+    cursor: pointer;
+  }
+  
+  .right_content {
+    display: flex;
+    align-items: center;
+ 
+  }
+  
+  .right_content p {
+    margin: 0 10px;
+    color: white;
+  
+  }
+   
+.right_content {
+    display: flex;
+    align-items: center;
+  }
+  
+  p:hover {
+    zoom: normal;
+    max-zoom: 10px;
+    background-color: rgb(13, 176, 70);
+  }
+  p:active {
+    background-color: red;
+  }
+
+/* media query */
+@media (max-width:808px){
+    .new_nav{
+       display: none;
+    }
+}
